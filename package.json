@@ -1,0 +1,17 @@
+{
+  "name": "ethereum-proof-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ethereum-mpt-proof.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-util": "^7.1.5",
+    "merkle-patricia-tree": "^4.2.4",
+    "web3": "^4.1.1"
+  }
+}
