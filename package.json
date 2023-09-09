@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.3.0",
     "ethereumjs-util": "^7.1.5",
     "merkle-patricia-tree": "^4.2.4",
     "web3": "^4.1.1"
